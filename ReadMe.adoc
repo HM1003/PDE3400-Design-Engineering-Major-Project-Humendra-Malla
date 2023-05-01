@@ -1,29 +1,13 @@
 :Author: hm1003
-:Email:
-:Date: 07/03/2023
+:Email:HM1003@live.mdx.ac.uk
+:Date: 07/02/2023
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Environmental Data Collection and Visualisation using Arduino Cloud IoT with Sensors
 
-Describe your project
+This code executes the collection of environmental data using sensors connected to a Microcontroller Unit to process the data to the Arduino IoT Cloud which can be used to monitor and control the system designed. Using a range of sensors connected to the IoT module ESP 8266, the devices circuitry involves LEDs which can implement a temperature control logic. A mobile app is used with widgets dashboard to display the temperature, humidity, fan, and heating data on the Arduino cloud which can be accessible anywhere by the user. Also, a smart alarm system has been connected to automatically set the temperature to a preferred level throughout the day. 
 
-== Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
-
-== Step 2: Assemble the circuit
-
-Assemble the circuit following the diagram layout.png attached to the sketch
-
-== Step 3: Load the code
-
-Upload the code contained in this sketch on to your board
 
 === Folder structure
 
